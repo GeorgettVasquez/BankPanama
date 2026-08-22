@@ -1,0 +1,43 @@
+[
+    {
+        "nombre": "Nicol",
+        "contra": "16",
+        "cuenta": "13120215",
+        "saldo": 70.0,
+        "historial": [
+            {
+                "tipo": "deposito",
+                "monto": 50.0,
+                "fecha": "2025-05-24 21:39:04"
+            },
+            {
+                "tipo": "retiro",
+                "monto": 10.0,
+                "fecha": "2025-05-24 21:39:17"
+            },
+            {
+                "tipo": "deposito",
+                "monto": 30.0,
+                "fecha": "2025-05-27 10:36:47"
+            }
+        ]
+    },
+    {
+        "nombre": "Julieta",
+        "contra": "09",
+        "cuenta": "39635602"
+    },
+    {
+        "nombre": "Ines",
+        "contra": "21",
+        "cuenta": "37363242",
+        "saldo": 10.0,
+        "historial": [
+            {
+                "tipo": "deposito",
+                "monto": 10.0,
+                "fecha": "2025-05-24 22:56:33"
+            }
+        ]
+    }
+]
