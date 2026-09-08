@@ -1,0 +1,1 @@
+#funciones de administración (listar usuarios, eliminar, resetear historial)

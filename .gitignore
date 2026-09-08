@@ -1,3 +1,4 @@
-desktop.ini
+.env
 __pycache__/
-*.pyc
+usuarios_nuevos.json
+desktop.ini
